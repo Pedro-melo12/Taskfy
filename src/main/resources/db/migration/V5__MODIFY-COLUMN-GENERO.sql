@@ -1,0 +1,2 @@
+ALTER TABLE tb_usuarios
+MODIFY  genero VARCHAR(20) NOT NULL;
